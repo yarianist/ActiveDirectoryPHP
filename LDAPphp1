@@ -1,4 +1,7 @@
 <?php
+
+// https://www.exchangecore.com/blog/how-use-ldap-active-directory-authentication-php/
+
 /**
  * Created by Joe of ExchangeCore.com
  */
